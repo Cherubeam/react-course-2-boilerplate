@@ -1,0 +1,8 @@
+.DS_Store
+coverage/
+node_modules/
+public/dist/
+playground/
+.env.test
+.env.development
+README.md
